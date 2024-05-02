@@ -1,1 +1,2 @@
-hello my first git.
+this is for pull request. and chrck chamges
+
